@@ -1,2 +1,2 @@
-# UserBasedRecommendationSystem
+# User-BasedRecommendationSystem
  User-BasedRecommendationSystem
